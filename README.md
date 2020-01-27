@@ -198,3 +198,4 @@ d.	Track 선택하기
 deepracer-for-dummies/docker
 여기에 있는 .env 파일의 환경변수(environment variable)를 통해서 track 선택이 됩니다. 
 
+2020/1/27 by JUNHA
